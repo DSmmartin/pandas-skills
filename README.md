@@ -7,3 +7,5 @@ In the Data Processing context with Pandas Python library, we deep in some inter
 ### 1.1. [ne()](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.ne.html#pandas.Series.ne)
 
 Return Not equal to of series and other, element-wise (binary operator ne).
+
+But not only we can use this logical, we can use this binary operators **eq**, **ne**, **le**, **lt**, **ge**, **gt**.
